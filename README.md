@@ -8,3 +8,5 @@
 - [Cards](https://github.com/natalia-smyslova/cards/tree/main)
 - [Higher order components - highlight](https://github.com/natalia-smyslova/hoc-highlight/tree/main)
 - [Higher order components - timeline](https://github.com/natalia-smyslova/hoc-time/tree/main)
+- [Portfolio/Filter](https://github.com/natalia-smyslova/filter/tree/main)
+- 
