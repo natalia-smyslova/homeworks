@@ -7,3 +7,4 @@
 - [HEX to RGB](https://github.com/natalia-smyslova/hex2rgb/tree/main)
 - [Cards](https://github.com/natalia-smyslova/cards/tree/main)
 - [Higher order components - highlight](https://github.com/natalia-smyslova/hoc-highlight/tree/main)
+- [Higher order components - timeline](https://github.com/natalia-smyslova/hoc-time/tree/main)
