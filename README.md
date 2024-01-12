@@ -9,4 +9,4 @@
 - [Higher order components - highlight](https://github.com/natalia-smyslova/hoc-highlight/tree/main)
 - [Higher order components - timeline](https://github.com/natalia-smyslova/hoc-time/tree/main)
 - [Portfolio/Filter](https://github.com/natalia-smyslova/filter/tree/main)
-- 
+- [Layouts](https://github.com/natalia-smyslova/layouts/tree/main)
