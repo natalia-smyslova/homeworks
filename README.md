@@ -11,3 +11,4 @@
 - [Portfolio/Filter](https://github.com/natalia-smyslova/filter/tree/main)
 - [Layouts](https://github.com/natalia-smyslova/layouts/tree/main)
 - [Steps](https://github.com/natalia-smyslova/steps/tree/main)
+- [Animation](https://github.com/natalia-smyslova/anim/tree/main)
