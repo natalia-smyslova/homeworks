@@ -13,6 +13,13 @@
 - [Steps](https://github.com/natalia-smyslova/steps/tree/main)
 
  ## JS 
+- [Base concepts](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/1.base-concepts)
+- [Functions](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/2.functions)
+- [Arrays](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/3.arrays)
+- [Objects](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/4.objects)
+- [Exception-Closure](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/6.exception-closure)
+- [Async](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/7.async)
+- [Decorators](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/8.decorators)
 - [Animation](https://github.com/natalia-smyslova/anim/tree/main)
 - [Testing](https://github.com/natalia-smyslova/testing/tree/main)
 - [Trello](https://github.com/natalia-smyslova/dnd/tree/main)
