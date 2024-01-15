@@ -30,3 +30,6 @@
 - [Symbols/Iterators/Generators](https://github.com/natalia-smyslova/itertaros/tree/master)
 - [Containers](https://github.com/natalia-smyslova/containers/tree/master)
 - [Properties and wrappers](https://github.com/natalia-smyslova/properties-and-wrappers/tree/master)
+- [Reveal](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/dom/reveal)
+- [Book-reader](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/dom/book-reader)
+- [Advertising rotator](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/dom/ads)
