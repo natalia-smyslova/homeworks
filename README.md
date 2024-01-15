@@ -54,4 +54,3 @@
 - [Text editor](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/text-editor)
 - [Authorization](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/auth)
 - [Second popup](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/popup)
-- 
