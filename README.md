@@ -27,3 +27,4 @@
 - [Testing](https://github.com/natalia-smyslova/testing/tree/main)
 - [Trello](https://github.com/natalia-smyslova/dnd/tree/main)
 - [Unit tests](https://github.com/natalia-smyslova/ajs_unit_tests/tree/master)
+- [Symbols/Iterators/Generators](https://github.com/natalia-smyslova/itertaros/tree/master)
