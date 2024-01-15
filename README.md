@@ -29,3 +29,4 @@
 - [Unit tests](https://github.com/natalia-smyslova/ajs_unit_tests/tree/master)
 - [Symbols/Iterators/Generators](https://github.com/natalia-smyslova/itertaros/tree/master)
 - [Containers](https://github.com/natalia-smyslova/containers/tree/master)
+- [Properties and wrappers](https://github.com/natalia-smyslova/properties-and-wrappers/tree/master)
