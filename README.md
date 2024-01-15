@@ -1,8 +1,9 @@
 # homeworks
 
 ## React
-- [Router crud](https://github.com/natalia-smyslova/router__CRUD/tree/main)
-- [Router menu](https://github.com/natalia-smyslova/menu/tree/main)
+
+- [Components func](https://github.com/natalia-smyslova/components_func/tree/main)
+- [Components class](https://github.com/natalia-smyslova/components_class)
 - [Watches](https://github.com/natalia-smyslova/watches/tree/main)
 - [HEX to RGB](https://github.com/natalia-smyslova/hex2rgb/tree/main)
 - [Cards](https://github.com/natalia-smyslova/cards/tree/main)
@@ -11,6 +12,8 @@
 - [Portfolio/Filter](https://github.com/natalia-smyslova/filter/tree/main)
 - [Layouts](https://github.com/natalia-smyslova/layouts/tree/main)
 - [Steps](https://github.com/natalia-smyslova/steps/tree/main)
+- [Router crud](https://github.com/natalia-smyslova/router__CRUD/tree/main)
+- [Router menu](https://github.com/natalia-smyslova/menu/tree/main)
 
  ## JS 
 - [Base concepts](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/1.base-concepts)
