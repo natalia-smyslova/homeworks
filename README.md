@@ -16,7 +16,7 @@
 - [Router menu](https://github.com/natalia-smyslova/menu/tree/main)
 - [UseJsonFetch](https://github.com/natalia-smyslova/useJsonFetch/tree/main)
 
- ## JS 
+ ## JavaScript 
 - [Base concepts](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/1.base-concepts)
 - [Functions](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/2.functions)
 - [Arrays](https://github.com/natalia-smyslova/bjs-2-homeworks/tree/main/3.arrays)
@@ -55,3 +55,6 @@
 - [Text editor](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/text-editor)
 - [Authorization](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/auth)
 - [Second popup](https://github.com/natalia-smyslova/bhj-homeworks/tree/master/client-state/popup)
+
+ ## TypeScript
+- [vanilla2typescript](https://github.com/natalia-smyslova/vanilla2typescript/tree/main)
